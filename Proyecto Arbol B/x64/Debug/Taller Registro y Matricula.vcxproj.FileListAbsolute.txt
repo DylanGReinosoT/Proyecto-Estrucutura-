@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\Arboles\x64\Debug\Arboles.exe
+C:\Users\Admin\Documents\MyckelEspe\Abr-Sep22\Estructura de datos\Repositorios\Proyecto-Estrucutura-\Proyecto Arbol B\x64\Debug\Arboles.exe
+C:\Users\Admin\Desktop\Proyecto Btrees\Proyecto Arbol B\x64\Debug\Arboles.exe
